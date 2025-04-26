@@ -45,7 +45,7 @@ Fundamentals are cumulative, so I'll share some useful links and a learning path
 | Link                                                                                      | Description                        |
 | ----------------------------------------------------------------------------------------- | ---------------------------------- |
 | [Dr. Mostafa's Video (For Non-CS Graduates)](https://www.youtube.com/watch?v=JkcmNrdhjMs) | A must-watch for non-CS graduates. |
-| [ITI - Software Engineering](https://www.youtube.com/playlist)                            | ITI's software engineering course. |
+| [ITI - Software Engineering](https://www.youtube.com/playlist?list=PLAowHBw9BCw7nXmpoevaOhk6kGmB9MQC5)                            | ITI's software engineering course. |
 | [Miscellaneous Useful Videos](https://www.youtube.com/watch?si=O0A6EZtntLZKBmPS)          | Additional helpful content.        |
 | [Another Useful Video](https://www.youtube.com/watch?si=ZH4mqqzbdP_P9fCL)                 | Extra learning material.           |
 | [Video on Fundamentals](https://www.youtube.com/watch?v=z1-yuolwrVs)                      | Deep dive into core concepts.      |
@@ -56,10 +56,9 @@ Fundamentals are cumulative, so I'll share some useful links and a learning path
 | Link                                                                                     | Description                     |
 | ---------------------------------------------------------------------------------------- | ------------------------------- |
 | [ITI Lectures](https://drive.google.com/.../15S4gCJjUwomXwrrWn3VuhOArBhk)                | ITI's OS lectures.              |
-| [Dr. Ahmed Hegazy's Playlist](https://youtube.com/playlist)                              | Detailed OS explanations.       |
-| [Dr. Ghassan's Course (English)](https://youtube.com/playlist)                           | Strong English course on OS.    |
-| [Another Professor's Playlist](https://youtube.com/playlist)                             | Additional OS insights.         |
-| [Hussein Nasser's Udemy Course](https://www.udemy.com/.../fundamentals-of-operating.../) | Professional OS course.         |
+| [Dr. Ahmed Hagag's Playlist](https://youtube.com/playlist?list=PLxIvc-MGOs6ib0oK1z9C46DeKd9rRcSMY)                              | Detailed OS explanations.       |
+| [Dr. Ghassan's Course (English)](https://youtube.com/playlist?list=PL6KMWPQP_DM-7tMNjUa7X2zGrc8jipPeI)                           | Strong English course on OS.    |
+| [Hussein Nasser's Udemy Course](https://www.udemy.com/course/fundamentals-of-operating-systems/) | Professional OS course.         |
 | [FreeCodeCamp OS Course](https://www.youtube.com/watch?v=yK1uBHPdp30)                    | Free comprehensive OS tutorial. |
 
 #### Networking:
